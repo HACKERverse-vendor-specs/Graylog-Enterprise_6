@@ -1,11 +1,12 @@
- # Your POC Architecture
+[//]: # (POC Architecture)
+# Your POC Architecture
 
 ![Header Logo](https://hvcompany.s3.us-west-2.amazonaws.com/email/EMAILheader.jpg)
 
 ![Horizontal Logo](https://hvcompany.s3.us-west-2.amazonaws.com/HV_horizatonal_website_logo.png)
 
 ---
-
+[//]: # (Overview)
 ## Overview
 
 - **Name:** [HV,IP,FOB] Craig Ellrod [ɧ۷ 0x00]
